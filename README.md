@@ -3,8 +3,8 @@
 GUI Application used to check the status of COVID-19 in all countries with color labels
 
 ## Tech Stack
-- Python 
-- Tkinter
+- Language - Python3
+- Library - Tkinter
 
 ## Image Results
 
